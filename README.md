@@ -8,6 +8,6 @@
 ## Techs
 
 * [JavaScript](https://www.javascript.com/): Linguagem de programação de sintaxe simples;
-* [React-Bootstrap]https://react-bootstrap.github.io/): Biblioteca que  oferece os componentes clássicos do Bootstrap construídos em React.;
+* [React-Bootstrap(]https://react-bootstrap.github.io/): Biblioteca que  oferece os componentes clássicos do Bootstrap construídos em React.;
 * [React](https://pt-br.reactjs.org/): Biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. ;
 
