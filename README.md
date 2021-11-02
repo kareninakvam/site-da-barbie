@@ -1,6 +1,8 @@
 # Site da Barbie
 
-<img src="blob:https://imgur.com/8f7bfa4b-157f-491e-9395-220e2a9676e1" >
+
+<img src="https://imgur.com/8f7bfa4b-157f-491e-9395-220e2a9676e1" >
+
 
 ## Descrição do Projeto
 
