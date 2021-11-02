@@ -1,8 +1,8 @@
 # Site da Barbie
 
-<div align ="center">
+
  ![layout-homepage](https://user-images.githubusercontent.com/91031302/139953170-c208fc72-a99c-4250-afe9-714b349132f6.png)
- </div>
+ 
 
 
 ## Descrição do Projeto
