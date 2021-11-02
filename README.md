@@ -1,5 +1,7 @@
 # Site da Barbie
 
+<img src="blob:https://imgur.com/8f7bfa4b-157f-491e-9395-220e2a9676e1" >
+
 ## Descrição do Projeto
 
 <p align="center"> Projeto criado com intuito de colocar em prática meus conhecimentos em HTML, CSS, JavaScript e principalmente em React, já é que meu primeiro projeto com essa tecnologia. Sugestões são bem vindas. </p>
