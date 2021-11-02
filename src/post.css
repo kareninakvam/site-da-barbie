@@ -1,0 +1,26 @@
+body{
+    background-color: #dfc2c7;
+  }
+
+  .post {
+    padding-top: 50px;
+}
+
+.post-container {
+    padding-top: 20px;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;   
+}
+
+.post-container h2{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+.post-container p {
+    text-align: justify;
+    font-family:  Helvetica, sans-serif;
+}
+
+

@@ -1,0 +1,44 @@
+
+
+.logosite {
+  max-width: 120px;
+  max-height: 38px;
+}
+
+main {
+  margin-top: 20px;
+  padding-top: 55px;
+  background-color: #dfc2c7;
+}
+
+.footer {
+  text-align: right;
+  padding-top: 80px;
+  background-color: #f7f7f7
+}
+
+
+.footer p {
+  color :darkgrey;
+  font-family: Verdana,sans-serif;
+  font-size: small;
+}
+
+h1{
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+form {
+  padding-top: 50px;
+  font-family: Helvetica, sans-serif ;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+a:link {
+  text-decoration: none;
+}
