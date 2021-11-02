@@ -1,13 +1,12 @@
 # Site da Barbie
 
-
  ![layout-homepage](https://user-images.githubusercontent.com/91031302/139953170-c208fc72-a99c-4250-afe9-714b349132f6.png)
  
 
 
 ## Descrição do Projeto
 
-<p align="center"> Projeto criado com intuito de colocar em prática meus conhecimentos em HTML, CSS, JavaScript e principalmente em React, já é que meu primeiro projeto com essa tecnologia. Sugestões são bem vindas. </p>
+<p> criado com intuito de colocar em prática meus conhecimentos em HTML, CSS, JavaScript e principalmente em React, já é que meu primeiro projeto com essa tecnologia. Sugestões são bem vindas. </p>
 
 
 ## Techs
