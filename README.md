@@ -1,6 +1,6 @@
 # Site da Barbie
 
-![alt text](https://imgur.com/8f7bfa4b-157f-491e-9395-220e2a9676e1")
+![alt text]("https://uploaddeimagens.com.br/images/003/517/559/full/layout-homepage.png?1635887720")
 
 ## Descrição do Projeto
 
